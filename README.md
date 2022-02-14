@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Syncaidius&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Syncaidius" /></p>
