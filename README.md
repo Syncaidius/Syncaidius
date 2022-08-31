@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+You can also find me on the following channels:  
+[![Twitter Follow](https://img.shields.io/twitter/follow/JJamesYarwood?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/JJamesYarwood)
+[![Linkedin Badge](https://img.shields.io/badge/James-Yarwood-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-yarwood-a1bb4a61/)](https://www.linkedin.com/in/abhinavjha58/)
+[![Website Badge](https://img.shields.io/badge/James-Yarwood-lightgrey?style=flat&logo=Google-Chrome&logoColor=white&link=https://jamesyarwood.co.uk/)](https://jamesyarwood.co.uk)
+
 <!--
 **Syncaidius/Syncaidius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
