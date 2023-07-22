@@ -5,9 +5,11 @@ I am a full-time software developer with significant experience in developing in
 I have also successfully released two mobile games a few years back. These are [Physworks](https://www.youtube.com/watch?v=Y9pp6E56uNQ) on Windows Phone 7 _(now defunct)_ and [Fizz Filler](https://play.google.com/store/apps/details?id=com.stoneleafstudios.fizzfiller&hl=en&gl=US) on Android. I'm currently developing my own game engine in my spare time, named [Molten](https://github.com/Syncaidius/MoltenEngine), with the aim of using it to develop new games in the future.
 
 Feel free to contact me via GitHub if you have any questions. You can also find me on the following channels:  
-[![Twitter Follow](https://img.shields.io/twitter/follow/JJamesYarwood?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/JJamesYarwood)
-[![Linkedin Badge](https://img.shields.io/badge/James-Yarwood-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-yarwood-a1bb4a61/)](https://www.linkedin.com/in/james-yarwood-a1bb4a61)
-[![Website Badge](https://img.shields.io/badge/James-Yarwood-lightgrey?style=flat&logo=Google-Chrome&logoColor=white&link=https://jamesyarwood.co.uk/)](https://jamesyarwood.co.uk)
+[![Twitter Follow](/img/twitter.png)](https://twitter.com/JJamesYarwood)
+[![Linkedin Badge](/img/linkedin.png)](https://www.linkedin.com/in/james-yarwood-a1bb4a61)
+[![Linkedin Badge](/img/youtube.png)](https://www.youtube.com/syncaidius)
+[![Website Badge](/img/threads.png)](https://www.threads.net/@james_yarwood)
+[![Website Badge](/img/web.png)](https://jamesyarwood.co.uk)
 
 <!--
 **Syncaidius/Syncaidius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
