@@ -5,11 +5,13 @@ I am a full-time software developer with significant experience in developing in
 I have also successfully released two mobile games a few years back. These are [Physworks](https://www.youtube.com/watch?v=Y9pp6E56uNQ) on Windows Phone 7 _(now defunct)_ and [Fizz Filler](https://play.google.com/store/apps/details?id=com.stoneleafstudios.fizzfiller&hl=en&gl=US) on Android. I'm currently developing my own game engine in my spare time, named [Molten](https://github.com/Syncaidius/MoltenEngine), with the aim of using it to develop new games in the future.
 
 Feel free to contact me via GitHub if you have any questions. You can also find me on the following channels:  
-[![Twitter Follow](/img/twitter.png)](https://twitter.com/JJamesYarwood)
-[![Linkedin Badge](/img/linkedin.png)](https://www.linkedin.com/in/james-yarwood-a1bb4a61)
-[![Linkedin Badge](/img/youtube.png)](https://www.youtube.com/syncaidius)
-[![Website Badge](/img/threads.png)](https://www.threads.net/@james_yarwood)
-[![Website Badge](/img/web.png)](https://jamesyarwood.co.uk)
+<p align="center">
+  <a href="https://twitter.com/JJamesYarwood"><img src="/img/twitter.png"/></a>
+  <a href="https://www.linkedin.com/in/james-yarwood-a1bb4a61"><img src="/img/linkedin.png"/></a>
+  <a href="https://www.threads.net/@james_yarwood"><img src="/img/threads.png"/></a>
+  <a href="https://www.youtube.com/syncaidius"><img src="/img/youtube.png"/></a>
+  <a href="https://jamesyarwood.co.uk"><img src="/img/web.png"/></a>
+</p>
 
 <!--
 **Syncaidius/Syncaidius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
