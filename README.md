@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a full-time software developer with significant experience in developing in-house/internal university systems within the education sector. 
+I am a full-time software developer/engineer with significant experience in developing in-house/internal university systems within the education sector. I have 15+ years of experience with .NET and C#, with significant experience in MS-SQL, ASP.NET, Blazor, JS/Typescript and many common JS frameworks/libraries. I'm also very capable with PHP and MySQL/MongoDB/MariaDB when needed!
 
-I have also successfully released two mobile games a few years back. These are [Physworks](https://www.youtube.com/watch?v=Y9pp6E56uNQ) on Windows Phone 7 _(now defunct)_ and [Fizz Filler](https://play.google.com/store/apps/details?id=com.stoneleafstudios.fizzfiller&hl=en&gl=US) on Android. I'm currently developing my own game engine in my spare time, named [Molten](https://github.com/Syncaidius/MoltenEngine), with the aim of using it to develop new games in the future.
+I have previously released two mobile games. These are [Physworks](https://www.youtube.com/watch?v=Y9pp6E56uNQ) on Windows Phone 7 _(now defunct)_ and [Fizz Filler](https://play.google.com/store/apps/details?id=com.stoneleafstudios.fizzfiller&hl=en&gl=US) on Android. I'm currently developing my own game engine in my spare time, named [Molten](https://github.com/Syncaidius/MoltenEngine), with the goal of using it to develop new games in the future.
 
 Feel free to contact me via GitHub if you have any questions. You can also find me on the following channels:  
 <p align="center">
