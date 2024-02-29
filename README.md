@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-time software engineer with significant experience in developing in-house/internal university systems and integrations. I have 15+ years of experience with .NET, C# and ASP.NET/Blazor, but also a lot of experience with PowerShell, Batch, Python, PHP, MS-SQL, JS/Typescript and many of the common JS frameworks/libraries.
+I am a full-time software engineer with significant experience in developing in-house/internal university systems and integrations. I have 15+ years of experience with .NET, C# and ASP.NET, but also a lot of experience with PowerShell, Batch, Python, PHP, MS-SQL, JS/Typescript and many of the common JS frameworks/libraries.
 
 On the game development side of the things, I have previously released two mobile games. These are [Physworks](https://www.youtube.com/watch?v=Y9pp6E56uNQ) on Windows Phone 7 _(now defunct)_ and [Fizz Filler](https://play.google.com/store/apps/details?id=com.stoneleafstudios.fizzfiller&hl=en&gl=US) on Android. I'm also developing my own game engine in my spare time, named [Molten](https://github.com/Syncaidius/MoltenEngine), with the goal of using it to develop new games in the future. This heavily relies on the DirectX 11/12 and Vulkan graphics APIs, which are complicated beasts!
 
