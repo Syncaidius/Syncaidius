@@ -4,7 +4,7 @@ I am a full-time software developer/engineer with significant experience in deve
 
 On the game development side of the things, I have previously released two mobile games. These are [Physworks](https://www.youtube.com/watch?v=Y9pp6E56uNQ) on Windows Phone 7 _(now defunct)_ and [Fizz Filler](https://play.google.com/store/apps/details?id=com.stoneleafstudios.fizzfiller&hl=en&gl=US) on Android. I'm currently developing my own game engine in my spare time, named [Molten](https://github.com/Syncaidius/MoltenEngine), with the goal of using it to develop new games in the future.
 
-I'm pretty good with C++, but not amazing. I'm very proficient with using the DirectX 11 graphics API but still learning DirectX 12 and Vulkan. They're complicated beasts of APIs!
+I'm very proficient with using the DirectX 11 graphics API and currently working with DirectX 12 and Vulkan in [Molten](https://github.com/Syncaidius/MoltenEngine). They're complicated beasts of APIs!
 
 Feel free to contact me via GitHub if you have any questions. You can also find me on the following channels:  
 <p align="center">
