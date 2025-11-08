@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full-time software engineer with significant experience in developing in-house/internal university systems and integrations. I have 16+ years of experience with .NET, C# and ASP.NET, but also a lot of experience with Azure, PowerShell, Batch, Python, PHP, MS-SQL, JS/Typescript and many of the common JS frameworks/libraries.
+I'm a full-time software engineer with significant experience in developing in-house/internal university systems and integrations. I have 16+ years of experience with .NET, C# and ASP.NET, but also a lot of experience with Azure, PowerShell, Batch, Python, PHP, MS-SQL, JS/Typescript and many of the common JS frameworks/libraries.
 
 On the game development side of the things, I have previously released two mobile games, both written in C#. These are [Physworks](https://www.youtube.com/watch?v=Y9pp6E56uNQ) on Windows Phone 7 _(now defunct)_ and [Fizz Filler](https://play.google.com/store/apps/details?id=com.stoneleafstudios.fizzfiller&hl=en&gl=US) on Android. 
 
