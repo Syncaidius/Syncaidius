@@ -12,8 +12,11 @@ If you have any questions, feel free to contact me via GitHub or any of my linke
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syncaidius&theme=github_dark" alt="Syncaidius" align = "center"/></p>
 
 <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Syncaidius&hide_border=true&count_private=true&show_icons=true&theme=dark" alt="Syncaidius" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Syncaidius&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" alt="Syncaidius" align = "center"/></p>
+<p align="center">
+  <a href="https://www.readmecodegen.com/custom-github-card-generator">
+    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=Syncaidius" alt="Custom GitHub Stats" />
+  </a>
+</p>
 
 <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Syncaidius&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Syncaidius" /></p>
