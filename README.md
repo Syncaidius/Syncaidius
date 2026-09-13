@@ -13,17 +13,21 @@ If you have any questions, feel free to contact me via GitHub or any of my linke
 
 <summary><b>⚡ Github Stats</b></summary>
 <p align="center">
-  <a href="https://www.readmecodegen.com/custom-github-card-generator">
-    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=Syncaidius&showProfilePic=false" alt="Custom GitHub Stats" />
-  </a>
+  <table>
+  <tr>
+    <td>
+      <a href="https://www.readmecodegen.com/custom-github-card-generator">
+        <img src="https://www.readmecodegen.com/api/github-stats/svg?username=Syncaidius&showProfilePic=false" alt="Custom GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.readmecodegen.com/custom-github-card-generator">
+        <img src="https://www.readmecodegen.com/api/github-stats/svg?username=Syncaidius&cardType=langs&showProfilePic=false" alt="Custom GitHub Stats" />
+      </a>
+    </td>
+  </tr>
+  </table>
 </p>
 
 <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Syncaidius&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Syncaidius" /></p>
-
-<summary><b>🌐 Most Used Languages</b></summary>
-<p align="center"> 
-  <a href="https://www.readmecodegen.com/custom-github-card-generator">
-    <img src="https://www.readmecodegen.com/api/github-stats/svg?username=Syncaidius&cardType=langs&showProfilePic=false" alt="Custom GitHub Stats" />
-  </a>
-</p>
